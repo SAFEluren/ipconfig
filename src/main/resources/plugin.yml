@@ -1,0 +1,6 @@
+name: ExamplePlugin
+version: 1.0.0
+main: fun.oyama.mcplugin.Main
+description: An example plugin
+author: SAFEluren
+api-version: '1.20'
